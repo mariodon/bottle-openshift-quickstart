@@ -12,7 +12,7 @@ Create an account at https://www.openshift.com/
 
 Create a python application based on the code in this repository
 
-    rhc app create bottle python-2.6 --from-code https://github.com/openshift-quickstart/bottle-openshift-quickstart.git
+    rhc app create bottle python-3.3 --from-code https://github.com/mariodon/bottle-openshift-quickstart.git
 
 That's it, you can now checkout your application at:
 
